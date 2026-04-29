@@ -1,0 +1,19 @@
+[
+  {
+    "id": "f10-1", 
+    "estado": "Por jugar",
+    "jornada": "Jornada 1",
+    "fecha": "15 de Abril, 2024",
+    "hora": "16:00",
+    "estadio": "Estadio Guadalajara",
+    "local": { 
+      "nombre": "Chivas", 
+      "logo": "https://logodownload.org/wp-content/uploads/2020/06/chivas-guadalajara-logo-0.png" 
+    },
+    "visitante": { 
+      "nombre": "Atlas", 
+      "logo": "https://logodownload.org/wp-content/uploads/2022/01/atlas-fc-logo-00.png" 
+    },
+    "marcador": { "local": 0, "visitante": 0 }
+  }
+]
